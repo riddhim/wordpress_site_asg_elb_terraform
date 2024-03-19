@@ -30,10 +30,12 @@ After:
 
 ![af_subnet](https://github.com/riddhim/wordpress_site_asg_elb_terraform/assets/46811067/2be403bf-1f7c-4bf4-8128-65f69ae091a2)
 
-![af_sg](https://github.com/riddhim/wordpress_site_asg_elb_terraform/assets/46811067/e8a6e833-1e61-4fff-b0c5-f265a80090dd)
+
+![af-sg1](https://github.com/riddhim/wordpress_site_asg_elb_terraform/assets/46811067/7868239d-816b-4aef-a363-58d522fb4768)
 
 
-![af_vpc1](https://github.com/riddhim/wordpress_site_asg_elb_terraform/assets/46811067/a75119dd-1bfa-4c06-8afa-35d3b5059adb)
+![af_vpc2](https://github.com/riddhim/wordpress_site_asg_elb_terraform/assets/46811067/8850b45b-bb95-4d67-91e5-1bebaf6482b7)
+
 
 
 
