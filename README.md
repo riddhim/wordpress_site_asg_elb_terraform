@@ -11,7 +11,8 @@ Please find the below outcomes:
 Before:
 
 
-![bf_vpc](https://github.com/riddhim/wordpress_site_asg_elb_terraform/assets/46811067/742341ad-27c5-4ef6-87fa-1226b1960634)
+![bf_vpc1](https://github.com/riddhim/wordpress_site_asg_elb_terraform/assets/46811067/ede1a235-ee16-465c-b5e8-375f072f74ff)
+
 
 ![bf_asg](https://github.com/riddhim/wordpress_site_asg_elb_terraform/assets/46811067/79972da7-7720-480b-9cf0-c2a9c0401be4)
 
@@ -29,8 +30,10 @@ After:
 
 ![af_subnet](https://github.com/riddhim/wordpress_site_asg_elb_terraform/assets/46811067/2be403bf-1f7c-4bf4-8128-65f69ae091a2)
 
-![af_vpc](https://github.com/riddhim/wordpress_site_asg_elb_terraform/assets/46811067/aafc3f83-c0db-440b-b40e-1a8d6e27b87a)
+![af_sg](https://github.com/riddhim/wordpress_site_asg_elb_terraform/assets/46811067/e8a6e833-1e61-4fff-b0c5-f265a80090dd)
 
+
+![af_vpc1](https://github.com/riddhim/wordpress_site_asg_elb_terraform/assets/46811067/a75119dd-1bfa-4c06-8afa-35d3b5059adb)
 
 
 
